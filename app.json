@@ -10,6 +10,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "mx.um.bibliaapp",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
